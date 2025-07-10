@@ -1,0 +1,43 @@
+ Case Study: Student Dropout Risk Analysis (Power BI)
+Overview:
+This project aimed to identify dropout risk among students based on attendance, average marks, and participation using Power BI dashboard analysis.
+
+Tools Used: Power BI, Excel
+Dataset Size: 20 students, 6 attributes
+Data Attributes:
+
+Student_ID
+
+Gender
+
+Attendance_%
+
+Avg_Marks
+
+Participation Level
+
+Final Result (Pass/Fail)
+
+Visuals Created:
+
+Attendance impact bar chart
+
+Participation pie chart
+
+Marks by gender chart
+
+KPI cards (total students & dropout %)
+
+Gender slicer
+
+Insights:
+
+Dropout risk spikes when attendance is below 65%
+
+Students with low marks and participation are more likely to fail
+
+Strong attendance + average marks → higher pass rate
+
+Conclusion:
+Early tracking of attendance and participation is essential to reduce dropout rates. Institutions can use dashboards like this to make proactive decisions.
+
